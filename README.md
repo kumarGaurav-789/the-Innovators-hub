@@ -137,5 +137,6 @@ HQPantheon/
 ## 👥 Authors
 **The Innovators Hub**  
 - **Kumar Gaurav**  
-- **Shanti Priya**  
+- **Shanti Priya**
+- **Afrin Ali**
 Amity University Jharkhand • GDG Code for Communities 2.0
